@@ -1,16 +1,133 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🚀 Coding Ninjas Clone
 
-Currently, two official plugins are available:
+A modern, fully responsive **Coding Ninjas Clone** built using **React + Tailwind CSS**, focused on clean UI, reusable components, and real-world frontend architecture. This project demonstrates practical frontend development skills through a polished ed-tech platform interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🌟 Live Preview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔗 *Add your deployed link here (Vercel / Netlify)*
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📌 Project Highlights
+
+✔ Pixel-perfect UI inspired by Coding Ninjas
+✔ Mobile-first & fully responsive design
+✔ Clean folder structure & scalable architecture
+✔ Smooth interactions and modern styling
+✔ Industry-standard development practices
+
+---
+
+## ✨ Features
+
+* 📚 Course listing with structured cards
+* 🧭 Smooth navigation & clean layouts
+* 📱 Responsive across all screen sizes
+* ♻️ Reusable and modular React components
+* 🎨 Tailwind CSS utility-based styling
+* ⚡ Fast build and performance using Vite
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology    | Usage                    |
+| ------------- | ------------------------ |
+| React.js      | Component-based UI       |
+| Tailwind CSS  | Styling & responsiveness |
+| Vite          | Fast build tool          |
+| Framer Motion | Animations               |
+| Lucide React  | Icons                    |
+
+---
+
+## 📂 Folder Structure
+
+```bash
+├── public
+├── src
+│   ├── components    # Reusable UI components
+│   ├── pages         # Page-level components
+│   ├── assets        # Images & static files
+│   ├── App.jsx
+│   └── main.jsx
+├── .gitignore
+├── index.html
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+├── vite.config.js
+└── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/your-username/coding-ninjas-clone.git
+```
+
+### 2️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+### 3️⃣ Run the development server
+
+```bash
+npm run dev
+```
+
+📍 App runs at:
+
+```
+http://localhost:5173
+```
+
+---
+
+## 🎯 Learning Outcomes
+
+This project helped me strengthen:
+
+* React component architecture
+* Responsive UI/UX design
+* Tailwind CSS best practices
+* Real-world project structuring
+* Clean and maintainable code
+
+---
+
+## 📸 Screenshots
+
+
+
+---
+
+## ⚠️ Disclaimer
+
+This project is **for educational purposes only**.
+All design inspiration belongs to **Coding Ninjas**.
+
+---
+
+## 👩‍💻 Author
+
+**Rashi**
+Frontend Developer | React | Tailwind CSS
+
+📫 *Add LinkedIn / GitHub here*
+
+---
+
+### ⭐ If you like this project, don’t forget to star the repo!
+
+---
+
