@@ -7,7 +7,7 @@ A modern, fully responsive **Coding Ninjas Clone** built using **React + Tailwin
 
 ## 🌟 Live Preview
 
-🔗 *Add your deployed link here (Vercel / Netlify)*
+https://696fb721659934fb2496f0f7--jazzy-bonbon-fdb900.netlify.app/
 
 ---
 
@@ -107,6 +107,11 @@ This project helped me strengthen:
 
 ## 📸 Screenshots
 
+<img width="1884" height="906" alt="Screenshot 2026-01-20 224242" src="https://github.com/user-attachments/assets/ad91d21f-d020-4e82-a79d-90e332b242b1" />
+
+<img width="1881" height="912" alt="Screenshot 2026-01-20 224251" src="https://github.com/user-attachments/assets/2de9acf8-348c-4875-91f7-7e36bc782b66" />
+
+<img width="1899" height="896" alt="Screenshot 2026-01-20 224301" src="https://github.com/user-attachments/assets/1c4aaa79-1f56-4ded-b0f0-d370ae643d75" />
 
 
 ---
